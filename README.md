@@ -1,18 +1,18 @@
-# PDAN8411w Linear Regression Project  
+# PDAN8411w Linear Regression  
 **Student:** Andiswa Sibusisiwe Phewa  
 **Student Number:** ST10123828  
 **Module:** PDAN8411w – Programming for Data Analytics
 **Institution:** IIE Rosebank College  
 **Year:** 2026  
 
----
+
 
 ## Overview  
 This repository contains the work completed for **Part 1** of the PDAN8411w Programming for Data Analytics assessment. The objective of the task was to evaluate the suitability of the medical insurance dataset for Linear Regression, conduct a full exploratory data analysis, select appropriate features, train a regression model, and evaluate its performance.
 
 The analysis was completed using Python in Jupyter Notebook.
 
----
+
 
 ## Contents of the Repository  
 
@@ -22,7 +22,7 @@ The analysis was completed using Python in Jupyter Notebook.
 | **insurance.csv** | Dataset used to train and evaluate the Linear Regression model. |
 | **PDAN8411w_Report_ST10123828.pdf** | Written report summarising the EDA, model development, results, and interpretation according to IIE Harvard referencing requirements. |
 
----
+
 
 ## Summary of What Was Completed in Part 1  
 
@@ -57,7 +57,7 @@ The results were interpreted to determine the model’s strengths and limitation
 ### 6. Model Refinement  
 A refined model was created by adjusting the feature set to address areas where performance could be improved. The refined model’s metrics were compared to the original model to assess whether the changes were beneficial.
 
----
+
 
 ## Notes  
 The notebook and report are intended to be read together. The notebook contains all Python code and outputs, while the report presents the findings in a formal structure appropriate for academic submission.
