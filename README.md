@@ -1,14 +1,14 @@
 # PDAN8411w Linear Regression Project  
 **Student:** Andiswa Sibusisiwe Phewa  
 **Student Number:** ST10123828  
-**Module:** PDAN8411w – Predictive Data Analytics  
+**Module:** PDAN8411w – Programming for Data Analytics
 **Institution:** IIE Rosebank College  
 **Year:** 2026  
 
 ---
 
 ## Overview  
-This repository contains the work completed for **Part 1** of the PDAN8411w Predictive Data Analytics assessment. The objective of the task was to evaluate the suitability of the medical insurance dataset for Linear Regression, conduct a full exploratory data analysis, select appropriate features, train a regression model, and evaluate its performance.
+This repository contains the work completed for **Part 1** of the PDAN8411w Programming for Data Analytics assessment. The objective of the task was to evaluate the suitability of the medical insurance dataset for Linear Regression, conduct a full exploratory data analysis, select appropriate features, train a regression model, and evaluate its performance.
 
 The analysis was completed using Python in Jupyter Notebook.
 
